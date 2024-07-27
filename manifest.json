@@ -1,0 +1,20 @@
+{
+    "name": "Meu PWA Simples",
+    "short_name": "PWA Simples",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "2995005_sun_sunny_yellow_weather_beach_icon256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "2995005_sun_sunny_yellow_weather_beach_icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
